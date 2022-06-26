@@ -1,0 +1,45 @@
+Q1 WAP to reverse a word after accepting the input from the user.
+ex- 
+   input: ineuron
+   output: norueni
+   
+Q2 create the following pattern using a nested for loop in python.
+*
+**
+***
+****
+*****
+
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+
+Q3 Write the code for fibonacci series upto n terms using iteraton and recursion.
+fibonacci series: 0, 1, 1, 2, 3, 5, 8, 13,.............
+
+Q4 WAP which takes a character and returns "True" if it is a vowel otherwise "False".
+
+Q5 WAP which will find all such numbers which are divisible by 7 but are not multiple of 5, between 2000 and 3200( both included). The numbers obtained should be printed in a comma-seprated sequence on a single line.
+
+Q6 WAP to convert seconds to day, hour, minutes and seconds.
+
+Q7 WAP that reads a string and checks whether it is a palindromic string or not.
+
+Q8 Predict the output:
+fruit ={}
+f1=['Apple' , 'Banana' , 'apple' , 'Banana']
+for index in f1:
+   if index in fruit:
+       fruit[index] + = 1
+   else:
+       fruit[index] = 1
+   print(fruit)
+print(len(fruit))
+
+
