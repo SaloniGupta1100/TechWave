@@ -1,3 +1,3 @@
 # TechWave
 
-Notes and assignments of full stack development with python.
+Quick notes and assignments of full stack development with python.
