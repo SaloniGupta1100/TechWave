@@ -1,0 +1,36 @@
+Why do we use opos?
+Aims to implement real-world entities like inheritance, polymorphism, encapsulation etc.
+
+Advantages of OOPS:
+-Provide a clear program structure and a clean code. 
+-Facilitates easy maintance and modification of existing code.
+-Reuse of code through inheritance.
+-Flexibility through polymorphism
+
+
+Procedural Programming
+Procedural Programming can be defined as a programming model which is derived from structured programming, based upon the concept of calling procedure. Procedures, also known as routines, subroutines or functions, simply consist of a series of computational steps to be carried out. During a program’s execution, any given procedure might be called at any point, including by other procedures or itself. 
+ex: FORTRAN, ALGOL, COBOL, BASIC, Pascal and C. 
+
+
+Object-Oriented Programming
+Object-oriented programming can be defined as a programming model which is based upon the concept of objects. Objects contain data in the form of attributes and code in the form of methods. In object-oriented programming, computer programs are designed using the concept of objects that interact with the real world. Object-oriented programming languages are various but the most popular ones are class-based, meaning that objects are instances of classes, which also determine their types. 
+ex: Java, C++, C#, Python, PHP, JavaScript, Ruby, Perl, Objective-C, Dart, Swift, Scala. 
+
+
+Python functions
+A function is a block of code which only runs when it is called. You can pass data, known as parameters, into a function.
+
+Creating and calling a function
+
+    def my_function():
+       print("Hello from a function")
+
+    my_function()
+    
+Types of function
+-Built In
+-User Defined
+-Lambda
+-Recursion
+
